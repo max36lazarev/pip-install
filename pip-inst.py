@@ -1,4 +1,4 @@
 import os
 
-pip = input('Библиотека: ')
+pip = input('library: ')
 os.system('pip install ' + pip)
